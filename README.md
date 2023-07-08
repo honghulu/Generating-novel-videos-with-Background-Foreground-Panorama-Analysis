@@ -4,6 +4,7 @@
 ![alt text](./pictures/project-description-01.PNG)
 
 Note: for src files, path changes are required
+✔ means methods are considered or used
 
 Files are omitted the following intermediate steps:
 
