@@ -1,7 +1,13 @@
 # Generating novel videos assisted by Background-Foreground Panorama Analysis
 
-## Paper
-[generate-novel-video.pdf](https://github.com/honghulu/Generating-novel-videos-with-Background-Foreground-Panorama-Analysis/files/13884100/generate-novel-video.pdf)
+## Video
+https://github.com/honghulu/Generating-novel-videos-with-Background-Foreground-Panorama-Analysis/assets/135955524/28453862-c8c0-42c9-a41d-72509b9ad6a7
+
+
+
+https://github.com/honghulu/Generating-novel-videos-with-Background-Foreground-Panorama-Analysis/assets/135955524/7eb310a1-16bf-4984-b74c-2b7c7d8835e6
+
+
 
 
 ## Objective
